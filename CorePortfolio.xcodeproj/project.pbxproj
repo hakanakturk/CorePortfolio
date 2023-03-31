@@ -16,6 +16,8 @@
 		FB95D59629D6600500322332 /* SidebarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB95D59529D6600500322332 /* SidebarView.swift */; };
 		FB95D59829D6600B00322332 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB95D59729D6600B00322332 /* DetailView.swift */; };
 		FB95D59A29D6612F00322332 /* Filter.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB95D59929D6612F00322332 /* Filter.swift */; };
+		FBEA677B29D76E4F00E99C6A /* Issue-CoreDataHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBEA677A29D76E4F00E99C6A /* Issue-CoreDataHelpers.swift */; };
+		FBEA677D29D76FD300E99C6A /* Tag-CoreDataHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBEA677C29D76FD300E99C6A /* Tag-CoreDataHelpers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +33,8 @@
 		FB95D59529D6600500322332 /* SidebarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SidebarView.swift; sourceTree = "<group>"; };
 		FB95D59729D6600B00322332 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		FB95D59929D6612F00322332 /* Filter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Filter.swift; sourceTree = "<group>"; };
+		FBEA677A29D76E4F00E99C6A /* Issue-CoreDataHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Issue-CoreDataHelpers.swift"; sourceTree = "<group>"; };
+		FBEA677C29D76FD300E99C6A /* Tag-CoreDataHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tag-CoreDataHelpers.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,11 +70,13 @@
 				FB95D59429D6246E00322332 /* Info.plist */,
 				FB95D58029D5AB5A00322332 /* CorePortfolioApp.swift */,
 				FB95D59529D6600500322332 /* SidebarView.swift */,
+				FBEA677A29D76E4F00E99C6A /* Issue-CoreDataHelpers.swift */,
+				FBEA677C29D76FD300E99C6A /* Tag-CoreDataHelpers.swift */,
 				FB95D59729D6600B00322332 /* DetailView.swift */,
 				FB95D58229D5AB5A00322332 /* ContentView.swift */,
 				FB95D59929D6612F00322332 /* Filter.swift */,
-				FB95D58F29D6163F00322332 /* Main.xcdatamodeld */,
 				FB95D59229D618F300322332 /* DataController.swift */,
+				FB95D58F29D6163F00322332 /* Main.xcdatamodeld */,
 				FB95D58429D5AB5C00322332 /* Assets.xcassets */,
 				FB95D58629D5AB5C00322332 /* CorePortfolio.entitlements */,
 				FB95D58729D5AB5C00322332 /* Preview Content */,
@@ -157,7 +163,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				FB95D59A29D6612F00322332 /* Filter.swift in Sources */,
+				FBEA677D29D76FD300E99C6A /* Tag-CoreDataHelpers.swift in Sources */,
 				FB95D59129D6163F00322332 /* Main.xcdatamodeld in Sources */,
+				FBEA677B29D76E4F00E99C6A /* Issue-CoreDataHelpers.swift in Sources */,
 				FB95D59829D6600B00322332 /* DetailView.swift in Sources */,
 				FB95D59329D618F300322332 /* DataController.swift in Sources */,
 				FB95D59629D6600500322332 /* SidebarView.swift in Sources */,

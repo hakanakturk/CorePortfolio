@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FB0BABD529DA4B5C00E33879 /* IssueRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB0BABD429DA4B5C00E33879 /* IssueRow.swift */; };
 		FB95D58129D5AB5A00322332 /* CorePortfolioApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB95D58029D5AB5A00322332 /* CorePortfolioApp.swift */; };
 		FB95D58329D5AB5A00322332 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB95D58229D5AB5A00322332 /* ContentView.swift */; };
 		FB95D58529D5AB5C00322332 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB95D58429D5AB5C00322332 /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FB0BABD429DA4B5C00E33879 /* IssueRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IssueRow.swift; sourceTree = "<group>"; };
 		FB95D57D29D5AB5A00322332 /* CorePortfolio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CorePortfolio.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB95D58029D5AB5A00322332 /* CorePortfolioApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CorePortfolioApp.swift; sourceTree = "<group>"; };
 		FB95D58229D5AB5A00322332 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				FBEA677C29D76FD300E99C6A /* Tag-CoreDataHelpers.swift */,
 				FB95D59729D6600B00322332 /* DetailView.swift */,
 				FB95D58229D5AB5A00322332 /* ContentView.swift */,
+				FB0BABD429DA4B5C00E33879 /* IssueRow.swift */,
 				FB95D59929D6612F00322332 /* Filter.swift */,
 				FB95D59229D618F300322332 /* DataController.swift */,
 				FB95D58F29D6163F00322332 /* Main.xcdatamodeld */,
@@ -170,6 +173,7 @@
 				FB95D59329D618F300322332 /* DataController.swift in Sources */,
 				FB95D59629D6600500322332 /* SidebarView.swift in Sources */,
 				FB95D58329D5AB5A00322332 /* ContentView.swift in Sources */,
+				FB0BABD529DA4B5C00E33879 /* IssueRow.swift in Sources */,
 				FB95D58129D5AB5A00322332 /* CorePortfolioApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

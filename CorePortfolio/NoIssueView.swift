@@ -14,9 +14,7 @@ struct NoIssueView: View {
             .font(.title)
             .foregroundStyle(.secondary)
         
-        Button("New Issue") {
-            
-        }
+        Button("New Issue", action: dataController.newIssue)
     }
 }
 

@@ -1,0 +1,162 @@
+[
+    {
+        "name": "İlk Adımlar",
+        "description": "İlk kez bir konu eklediniz.",
+        "color": "Light Blue",
+        "criterion": "issues",
+        "value": 1,
+        "image": "figure.walk"
+    },
+    {
+        "name": "Mükemmel Başlangıç",
+        "description": "10 adet konu oluşturdunuz.",
+        "color": "Light Blue",
+        "criterion": "issues",
+        "value": 10,
+        "image": "hand.thumbsup.fill"
+    },
+    {
+        "name": "Yükseliyoruz",
+        "description": "10 adet konu oluşturdunuz.",
+        "color": "Light Blue",
+        "criterion": "issues",
+        "value": 20,
+        "image": "tray.and.arrow.up.fill"
+    },
+    {
+        "name": "Yüksek İvme",
+        "description": "50 adet konu oluşturdunuz.",
+        "color": "Light Blue",
+        "criterion": "issues",
+        "value": 50,
+        "image": "speedometer"
+    },
+    {
+        "name": "Büyük Etki",
+        "description": "100 adet konu oluşturdunuz.",
+        "color": "Light Blue",
+        "criterion": "issues",
+        "value": 100,
+        "image": "dot.radiowaves.left.and.right"
+    },
+    {
+        "name": "Büyük Performans",
+        "description": "250 adet konu oluşturdunuz.",
+        "color": "Light Blue",
+        "criterion": "issues",
+        "value": 250,
+        "image": "square.stack.3d.up.fill"
+    },
+    {
+        "name": "Yıldız Performans",
+        "description": "500 adet konu oluşturdunuz.",
+        "color": "Light Blue",
+        "criterion": "issues",
+        "value": 500,
+        "image": "star.circle.fill"
+    },
+    {
+        "name": "Şampiyon Performansı",
+        "description": "1000 adet konu oluşturdunuz.",
+        "color": "Light Blue",
+        "criterion": "issues",
+        "value": 1000,
+        "image": "crown.fill"
+    },
+    {
+        "name": "Çözüldü",
+        "description": "İlk konuyu çözdünüz.",
+        "color": "Green",
+        "criterion": "closed",
+        "value": 1,
+        "image": "checkmark.shield.fill"
+    },
+    {
+        "name": "Çöcüzü",
+        "description": "10 konu çözdünüz.",
+        "color": "Green",
+        "criterion": "closed",
+        "value": 10,
+        "image": "guitars.fill"
+    },
+    {
+        "name": "20 Baya Çok",
+        "description": "20 konu çözdünüz.",
+        "color": "Green",
+        "criterion": "closed",
+        "value": 20,
+        "image": "20.square.fill"
+    },
+    {
+        "name": "Tam 12den!",
+        "description": "50 konu çözdünüz.",
+        "color": "Green",
+        "criterion": "closed",
+        "value": 50,
+        "image": "target"
+    },
+    {
+        "name": "Yükseklerde Uçuyorsun",
+        "description": "100 konu çözdünüz.",
+        "color": "Green",
+        "criterion": "closed",
+        "value": 100,
+        "image": "airplane.circle.fill"
+    },
+    {
+        "name": "Ateş Gibisin!",
+        "description": "250 konu çözdünüz.",
+        "color": "Green",
+        "criterion": "closed",
+        "value": 250,
+        "image": "flame.fill"
+    },
+    {
+        "name": "Çözüm Müdürü",
+        "description": "500 konu çözdünüz.",
+        "color": "Green",
+        "criterion": "closed",
+        "value": 500,
+        "image": "text.badge.checkmark"
+    },
+    {
+        "name": "Şimşek Gibi!",
+        "description": "1000 konu çözdünüz.",
+        "color": "Green",
+        "criterion": "closed",
+        "value": 1000,
+        "image": "bolt.circle.fill"
+    },
+    {
+        "name": "Etiket Basıldı",
+        "description": "İlk etiketinizi oluşturdunuz.",
+        "color": "Gold",
+        "criterion": "tags",
+        "value": 1,
+        "image": "tag.fill"
+    },
+    {
+        "name": "Etiketleme Uzmanı",
+        "description": "10 etiket oluşturdunuz.",
+        "color": "Gold",
+        "criterion": "tags",
+        "value": 10,
+        "image": "tag.circle.fill"
+    },
+    {
+        "name": "Üstün Etiketleyici",
+        "description": "50 etiket oluşturdunuz.",
+        "color": "Gold",
+        "criterion": "tags",
+        "value": 50,
+        "image": "square.grid.3x1.folder.fill.badge.plus"
+    },
+    {
+        "name": "Destekleyici",
+        "description": "Premium paket satın aldınız.",
+        "color": "Purple",
+        "criterion": "unlock",
+        "value": 0,
+        "image": "dollarsign.square.fill"
+    }
+]
